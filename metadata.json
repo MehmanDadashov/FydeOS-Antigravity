@@ -1,0 +1,8 @@
+{
+  "name": "FydeOS Antigravity",
+  "description": "Hyper-fast OS simulation with Qrok Brain and Antigravity Engine integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
